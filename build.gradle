@@ -49,7 +49,7 @@ tasks.withType(org.jetbrains.kotlin.gradle.tasks.KotlinCompile).all {
 }
 
 jar {
-    manifest.attributes 'Main-Class': 'MainKt'
+    manifest.attributes 'Main-Class': 'XlsxMainKt'
     from configurations.compile.collect {
         it.isDirectory() ? it : zipTree(it)
     }

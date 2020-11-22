@@ -8,7 +8,7 @@
 
 ### 基本コマンド
 
-```java -jar fumen2xlsx.jar -t v115@zgwhIewhH8AewhH8AewhH8AeI8KepIJvhA```
+```java -jar fumen2xlsx.jar -t v115@vhGSQJJHJWSJUIJXGJVBJTJJ```
 
 ### オプション一覧
 

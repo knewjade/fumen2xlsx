@@ -7,10 +7,10 @@ import org.junit.jupiter.api.Test
 import java.util.*
 
 
-class MainTest {
+class XlsxMainTest {
     private val minoFactory = MinoFactory()
     private val colorConverter = ColorConverter()
-    private val main = Main(minoFactory, colorConverter)
+    private val main = MainRunner(minoFactory, colorConverter)
 
     @Test
     fun case1W4() {
