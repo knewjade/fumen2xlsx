@@ -47,3 +47,18 @@ themeディレクトリにプロパティファイルを追加すると、`--col
 * `.normal`: 通常時のブロックの色
 * `.clear`: ラインが揃ったときに強調するための色
 * `.piece`: 操作しているミノを強調するための色
+
+------
+
+This software includes the work that is distributed in the Apache License 2.0
+
+```
+Apache Commons CLI
+Copyright 2001-2017 The Apache Software Foundation
+
+Apache POI
+Copyright 2003-2020 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+```
