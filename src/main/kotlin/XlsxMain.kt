@@ -100,7 +100,7 @@ class MainRunner(private val minoFactory: MinoFactory, private val colorConverte
 
 private fun properties(colorTheme: String): Properties {
     return Properties().also {
-        val path = String.format("theme/${colorTheme}.properties")
+        val path = "theme/${colorTheme}.properties"
         Files.newBufferedReader(Paths.get(path), StandardCharsets.UTF_8).use { reader ->
             it.load(reader)
         }
