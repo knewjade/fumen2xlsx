@@ -14,6 +14,9 @@
 
 [fumen カラー](https://1drv.ms/x/s!AgZefBjz5OGajWurEbKAn4QKM7ST): [テト譜](http://fumen.zui.jp) をベースとしたカラーリング
 
+[four カラー](https://1drv.ms/x/s!AgZefBjz5OGajXW7E174O1lDOHOk?e=MOVKFv): [FOUR](https://four.lol) をベースとしたカラーリング
+
+
 ### 基本コマンド
 
 ```java -jar fumen2xlsx.jar -t v115@vhGSQYIAkeEfEXUb9AJHJWSJUIJXGJVBJTJYYAlvs2?A1sDfETo3ABlvs2A3HEfET4ZOB```
